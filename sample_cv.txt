@@ -1,0 +1,9 @@
+Software Engineer
+
+Skills: Python, Django, FastAPI, SQL, PostgreSQL, Docker, Git, Linux, REST APIs, JavaScript, React
+
+Experience:
+- Built backend services in Python
+- Designed PostgreSQL databases and REST APIs
+- Deployed applications with Docker
+- Worked in remote, full-time product teams
